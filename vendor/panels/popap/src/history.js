@@ -21,6 +21,8 @@ search_history.addEventListener('input', (el) => {
 
 removeTextSearchHistory.addEventListener('click', removeTextHistory);
 
+
+
 // function searchInInput() {
 // 	clearTimeout(timeInterval);
 // 	timeInterval = setTimeout((el) => {
